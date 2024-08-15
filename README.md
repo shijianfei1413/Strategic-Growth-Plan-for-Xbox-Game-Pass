@@ -20,7 +20,7 @@ This project presents a strategic growth plan for Xbox Game Pass, focusing on op
 
 ### **Final Strategic Plan (PDF)**
    - **Description**: This document provides a comprehensive analysis of the strategic options available for Xbox Game Pass, including financial implications, market trends, and the potential impact of these strategies on future growth.
-   - **[Read the Strategic Plan](path-to-your-pdf-file)**
+   - **[Read the Strategic Plan](https://github.com/shijianfei1413/Strategic-Growth-Plan-for-Xbox-Game-Pass/blob/c5da815e54b00ab1fd2cc713ecc4fe8f1f18246a/Final%20Strategic%20Plan.pdf)**
 
 ## Key Outcomes
 - **Hybrid Strategy**: A proposed hybrid model integrating tiered pricing with a loyalty program to address diverse user needs and drive sustainable growth.
